@@ -1,5 +1,3 @@
-# React + Vite
-
 # Product Listing Frontend
 
 This is the frontend repository for the Product Listing application.
