@@ -59,7 +59,6 @@ product_listing_frontend/
 ### Technologies Used
 
 - React.js
-- Redux Toolkit
 - Axios
 - React Router DOM
 
